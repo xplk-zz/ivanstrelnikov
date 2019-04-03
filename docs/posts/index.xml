@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Asking Right Questions</title>
+		<link>https://ivanstrelnikov.com/posts/</link>
+		<description>Recent content in Posts on Asking Right Questions</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>Copyright 2019 Ivan Strelnikov. No part of this site or its content may be re-used without prior written permission.</copyright>
+		<lastBuildDate>Tue, 02 Apr 2019 11:36:33 +0800</lastBuildDate>
+		<atom:link href="https://ivanstrelnikov.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Initial commit to blogging. Asking Right Questions</title>
+			<link>https://ivanstrelnikov.com/posts/initial-commit/</link>
+			<pubDate>Tue, 02 Apr 2019 11:36:33 +0800</pubDate>
+			
+			<guid>https://ivanstrelnikov.com/posts/initial-commit/</guid>
+			<description>Mood: I&amp;rsquo;m proud about myself, excited about future.
+I have things to share! Stay in touch.
+
+ Asking the right questions takes as much skill as giving the right answers.
+– Robert Half</description>
+			<content type="html"><![CDATA[<p><em>Mood: I&rsquo;m proud about myself, excited about future.</em></p>
+
+<p>I have things to share! Stay in touch.</p>
+
+<p><br/><br/></p>
+
+<blockquote>
+<p>Asking the right questions takes as much skill as giving the right answers.</p>
+
+<p>– <em>Robert Half</em></p>
+</blockquote>
+
+<p><br/></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

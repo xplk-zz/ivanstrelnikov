@@ -1,3 +1,5 @@
+# Site sources
+ghost/
 # Logs
 logs
 *.log
@@ -41,6 +43,7 @@ typings/
 
 # Optional npm cache directory
 .npm
+.DS_Store
 
 # Optional eslint cache
 .eslintcache

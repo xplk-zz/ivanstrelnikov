@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asking Right Questions</title>
+    <link>https://ivanstrelnikov.com/</link>
+    <description>Recent content on Asking Right Questions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2019 Ivan Strelnikov. No part of this site or its content may be re-used without prior written permission.</copyright>
+    <lastBuildDate>Tue, 02 Apr 2019 11:36:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://ivanstrelnikov.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial commit to blogging. Asking Right Questions</title>
+      <link>https://ivanstrelnikov.com/posts/initial-commit/</link>
+      <pubDate>Tue, 02 Apr 2019 11:36:33 +0800</pubDate>
+      
+      <guid>https://ivanstrelnikov.com/posts/initial-commit/</guid>
+      <description>Mood: I&amp;rsquo;m proud about myself, excited about future.
+I have things to share! Stay in touch.
+
+ Asking the right questions takes as much skill as giving the right answers.
+– Robert Half</description>
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>https://ivanstrelnikov.com/disclaimer/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivanstrelnikov.com/disclaimer/</guid>
+      <description>Want to say sorry for every English grammar mistakes, one of the reasons to create this blog was an idea to improve language knowledge.</description>
+    </item>
+    
+    <item>
+      <title>Privacy policy</title>
+      <link>https://ivanstrelnikov.com/policy/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivanstrelnikov.com/policy/</guid>
+      <description>We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at any time by modifying your Internet browser&amp;rsquo;s settings. We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://ivanstrelnikov.com/welcome/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ivanstrelnikov.com/welcome/</guid>
+      <description>Welcome! Thank you for visiting, please stay in touch, content is coming!</description>
+    </item>
+    
+  </channel>
+</rss>
